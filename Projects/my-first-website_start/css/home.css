@@ -1,0 +1,13 @@
+body {
+font-family: sans-serif;
+background-image: url('../images/yellow.jpg');
+}
+h1 {
+padding: 0.5em;
+background-color: pink;
+color: white;
+border-radius: 0.5em;
+}
+ul li.selected {
+color: yellow;
+} 
